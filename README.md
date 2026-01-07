@@ -54,7 +54,6 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T-Fluffy&show_icons=true&theme=radical&hide_border=false" alt="Tarek's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Fluffy&layout=compact&theme=radical&hide_border=false" alt="Top Langs" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=T-Fluffy&theme=radical" alt="GitHub Stats Card" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=T-Fluffy&theme=radical" alt="Most Commit Language Card" />
 </p>
