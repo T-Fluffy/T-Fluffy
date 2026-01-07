@@ -55,5 +55,8 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=T-Fluffy&theme=radical" alt="GitHub Stats Card" />
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T-Fluffy&theme=radical" alt="Profile Details Card" />
+  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=T-Fluffy&theme=radical" alt="Most Commit Language Card" />
 </p>
