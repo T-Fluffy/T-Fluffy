@@ -8,11 +8,11 @@ I am a dedicated Software Engineer based in Sousse, Tunisia, with a specialized 
 ---
 
 ## 👨‍💻 About Me
-* 🔭 **Currently Developing:** A full-stack online document editor using **React** and **.NET**[cite: 49, 50, 51].
-* 🎮 **Game Industry Experience:** Served as a Gameplay Programmer at **Lanterns Studio** [cite: 12] [cite_start]and a Game Development Instructor at **GOMYCODE**[cite: 10].
-* 🛠️ **Key Project:** Created "LMM," a system for recording humanoid animations using **Unreal Engine**, **Unity**, and **PyTorch**[cite: 39, 40].
-* 📱 **Mobile Solutions:** Recently implemented GPS detection and geolocation widgets for the **Homeo** application[cite: 10, 59].
-* 🎓 **Education:** Graduated with honors in Software Engineering from **EPI** [cite: 29] [cite_start]and Computer Science from **ISITCOM**[cite: 29, 30].
+* 🔭 **Currently Developing:** A full-stack online document editor using **React** and **.NET**.
+* 🎮 **Game Industry Experience:** Served as a Gameplay Programmer at **Lanterns Studio** and a Game Development Instructor at **GOMYCODE**.
+* 🛠️ **Key Project:** Created "LMM," a system for recording humanoid animations using **Unreal Engine**, **Unity**, and **PyTorch**.
+* 📱 **Mobile Solutions:** Recently implemented GPS detection and geolocation widgets for the **Homeo** application.
+* 🎓 **Education:** Graduated with honors in Software Engineering from **EPI** and Computer Science from **ISITCOM**.
 
 ---
 
