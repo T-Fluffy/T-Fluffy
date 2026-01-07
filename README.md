@@ -19,7 +19,7 @@ I am a dedicated Software Engineer based in Sousse, Tunisia, with a specialized 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="[https://[www.linkedin.com/tarekhalloul](https://www.linkedin.com/in/tarekhalloul/)](https://www.linkedin.com/in/tarekhalloul/)" target="_blank">
+  <a href="[[https://[www.linkedin.com/tarekhalloul](https://www.linkedin.com/in/tarekhalloul/)](https://www.linkedin.com/in/tarekhalloul/](https://www.linkedin.com/in/tarekhalloul))" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="mailto:halloultarek1@gmail.com">
