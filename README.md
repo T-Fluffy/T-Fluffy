@@ -53,5 +53,8 @@
 ---
 
 ### 📈 GitHub Stats
-![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-Fluffy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-Fluffy&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=T-Fluffy&show_icons=true&theme=radical&hide_border=false" alt="Tarek's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Fluffy&layout=compact&theme=radical&hide_border=false" alt="Top Langs" />
+</p>
