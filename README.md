@@ -1,7 +1,9 @@
-# Hi there! I'm Tarek Halloul 👋 
+<p align="center">
+  <img src="header.png" alt="Tarek Halloul Header" width="100%">
+</p>
 
 ### 🚀 Passionate Software Engineer & Game Developer
-[cite_start]I am a dedicated Software Engineer based in Sousse, Tunisia, with a specialized focus on Unity Engine and full-stack web technologies[cite: 1, 2, 4, 9]. [cite_start]My work bridges the gap between interactive game development and robust web systems[cite: 5].
+I am a dedicated Software Engineer based in Sousse, Tunisia, with a specialized focus on Unity Engine and full-stack web technologies[cite: 1, 2, 4, 9]. [cite_start]My work bridges the gap between interactive game development and robust web systems[cite: 5].
 
 ---
 
