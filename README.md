@@ -48,7 +48,7 @@ I am a dedicated Software Engineer based in Sousse, Tunisia, with a specialized 
 ## 💡 Random Dev Quote
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=The+only+way+to+do+great+work+is+to+love+what+you+do.;--+Steve+Jobs&center=true&width=600&height=50">
+    <img src="https://readme-typing-svg.demolab.com/?lines=The+only+way+to+do+great+work+is+to+love+what+you+do.;--+Steve+Jobs&center=true&vCenter=true&width=500&height=50" width="100%" alt="Random Dev Quote">
   </a>
 </p>
 
