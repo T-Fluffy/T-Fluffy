@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="header.png" alt="Tarek Halloul Header" width="100%">
 </p>
@@ -18,9 +19,15 @@ I am a dedicated Software Engineer based in Sousse, Tunisia, with a specialized 
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=The+only+way+to+do+great+work+is+to+love+what+you+do.;--+Steve+Jobs&center=true&vCenter=true&multiline=true&width=435&height=100">
+<p align="left">
+  <a href="https://www.linkedin.com/in/tarekhalloul/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="mailto:halloultarek1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="https://discord.com/users/tarek#2071" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
 
@@ -42,7 +49,7 @@ I am a dedicated Software Engineer based in Sousse, Tunisia, with a specialized 
 ## 💡 Random Dev Quote
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=The+only+way+to+do+great+work+is+to+love+what+you+do.;--+Steve+Jobs&center=true&vCenter=true&width=500&height=50" width="100%" alt="Random Dev Quote">
+    <img src="https://readme-typing-svg.demolab.com/?lines=The+only+way+to+do+great+work+is+to+love+what+you+do.;--+Steve+Jobs&center=true&width=600&height=50">
   </a>
 </p>
 
