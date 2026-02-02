@@ -9,7 +9,7 @@ I am a dedicated Software Engineer based in Sousse, Tunisia, with a specialized 
 ---
 
 ## 👨‍💻 About Me
-* 🔭 **Currently Developing:** A full-stack online document editor using **React** and **.NET**.
+* 🔭 **Currently Developing:** A full-stack online document editor and a D&D online game app and more using **React** and **.NET**. Building other projects with Godot engine and Trying to improve my software engineering skills to be more than one specific developer and more of a powerhouse.
 * 🎮 **Game Industry Experience:** Served as a R&D engineer intern  at **Lanterns Studio** and a Game Development Instructor at **GOMYCODE**.
 * 🛠️ **Key Project:** Created "LMM," a system for recording humanoid animations using **Unreal Engine**, **Unity**, and **PyTorch**.
 * 📱 **Mobile Solutions:** Recently implemented GPS detection and geolocation widgets for the **Homeo** application.
