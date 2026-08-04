@@ -9,7 +9,7 @@ I am a dedicated Software Engineer based in Sousse, Tunisia, with a specialized 
 ---
 
 ## 👨‍💻 About Me
-* 🔭 **Currently Developing:** A full-stack online document editor and a D&D online game app and more using **React** and **.NET**. Building other projects with Godot engine and Trying to improve my software engineering skills to be more than one specific developer and more of a powerhouse.
+* 🔭 **Currently Developing:** Focused on the development of full-stack projects, a D&D online game app and more using **React**, **Angular** and **.NET**. Building other projects with Godot engine and Trying to improve my software engineering skills to be more than one specific developer and more of a powerhouse.
 * 🎮 **Game Industry Experience:** Served as a R&D engineer intern  at **Lanterns Studio** and a Game Development Instructor at **GOMYCODE**.
 * 🛠️ **Key Project:** Created "LMM," a system for recording humanoid animations using **Unreal Engine**, **Unity**, and **PyTorch**.
 * 📱 **Mobile Solutions:** Recently implemented GPS detection and geolocation widgets for the **Homeo** application.
@@ -59,7 +59,4 @@ I am a dedicated Software Engineer based in Sousse, Tunisia, with a specialized 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=T-Fluffy&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Fluffy&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-Fluffy&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=T-Fluffy&theme=radical" alt="GitHub Trophies" />
 </p>
