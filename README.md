@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="header.png" alt="Tarek Halloul Header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=36BCF7,12C064,5146C0&height=180&section=header&text=Tarek%20Halloul&fontSize=38&fontAlignY=35" alt="Tarek Halloul Header" width="100%">
 </p>
 
 ### 🚀 Passionate Software Engineer & Game Developer
@@ -19,7 +19,7 @@ I am a dedicated Software Engineer based in Sousse, Tunisia, with a specialized 
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/tarekhalloul/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:top; margin:6px 4px">
   </a>
@@ -57,8 +57,5 @@ I am a dedicated Software Engineer based in Sousse, Tunisia, with a specialized 
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T-Fluffy&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Fluffy&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
-  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-Fluffy&theme=radical" alt="GitHub Streak" />
 </p>
