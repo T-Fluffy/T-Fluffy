@@ -61,16 +61,14 @@ I am a dedicated Software Engineer based in Sousse, Tunisia, with a specialized 
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 GitHub Profile Summary
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=T-Fluffy&theme=radical&no-frame=false&no-bg=true&margin-w=10&column=-1" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T-Fluffy&theme=radical" alt="Profile Details" />
 </p>
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T-Fluffy&theme=radical&hide_border=false&count_private=true&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Fluffy&theme=radical&hide_border=false&layout=donut" alt="Top Languages" />
-  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=T-Fluffy&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-Fluffy&theme=radical" alt="GitHub Streak" />
 </p>
 
