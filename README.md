@@ -3,7 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=36BCF7,12C064,5146C0&height=180&section=header&text=Tarek%20Halloul&fontSize=38&fontAlignY=35" alt="Tarek Halloul Header" width="100%">
 </p>
 
-### 🚀 Passionate Software Engineer & Game Developer
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Game+Developer;Full-Stack+Developer;Unity+%26+Godot+Enthusiast" alt="Typing SVG">
+  </a>
+</p>
+
 I am a dedicated Software Engineer based in Sousse, Tunisia, with a specialized focus on Unity Engine and Godot engine games and full-stack web technologies. My work bridges the gap between interactive game development and robust web applications.
 
 ---
@@ -56,7 +61,20 @@ I am a dedicated Software Engineer based in Sousse, Tunisia, with a specialized 
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=T-Fluffy&theme=radical&no-frame=false&no-bg=true&margin-w=10&column=-1" alt="GitHub Trophies" />
+</p>
+
 ### 📈 GitHub Stats
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=T-Fluffy&theme=radical&hide_border=false&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Fluffy&theme=radical&hide_border=false&layout=donut" alt="Top Languages" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=T-Fluffy&theme=radical" alt="GitHub Streak" />
+</p>
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/T-Fluffy/T-Fluffy/output/snake-dark.svg" alt="Contribution Snake" />
 </p>
