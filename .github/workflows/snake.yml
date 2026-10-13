@@ -1,8 +1,5 @@
 name: Generate Snake
 
-permissions:
-  contents: write
-
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -12,16 +9,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
         with:
           github_user_name: T-Fluffy
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
             dist/snake.gif?color_snake=color&color_dots=#bfd6f6,#8dbdff,#64a0f8,#4b91f1,#3c7dd9
-      - uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453 # v4.1.0
+      - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
